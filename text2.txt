@@ -1,4 +1,1 @@
-This is the second file.
-
-
-
+The second file has been modified.
